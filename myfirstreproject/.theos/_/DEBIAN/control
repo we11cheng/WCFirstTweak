@@ -1,0 +1,10 @@
+Package: com.obizsofi.iosre
+Name: myFirstReproject
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: gwc
+Author: gwc
+Section: Tweaks
+Version: 0.0.1-2+debug
+Installed-Size: 120
