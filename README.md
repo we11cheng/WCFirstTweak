@@ -73,8 +73,7 @@ _THEOS_PLATFORM_DPKG_DEB_COMPRESSION ?= gzip
 ``` 添加设备THEOS_DEVICE_IP 到系统环境变量中即可。
 
 ### 效果图（有错误欢迎指出）
-
-![](http://p2bzzkn05.bkt.clouddn.com/18-6-5/76808601.jpg)
+![](http://p2bzzkn05.bkt.clouddn.com/18-6-5/44117725.jpg)
 
 
 
