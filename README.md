@@ -70,7 +70,8 @@ _THEOS_PLATFORM_DPKG_DEB_COMPRESSION ?= gzip
 ```
 ==> Error: /Applications/Xcode.app/Contents/Developer/usr/bin/make install requires that you set THEOS_DEVICE_IP in your environment.
 ==> Notice: It is also recommended that you have public-key authentication set up for root over SSH, or you will be entering your password a lot.
-``` 添加设备THEOS_DEVICE_IP 到系统环境变量中即可。
+``` 
+添加设备THEOS_DEVICE_IP 到系统环境变量中即可。
 
 ### 效果图（有错误欢迎指出）
 ![](http://p2bzzkn05.bkt.clouddn.com/18-6-5/44117725.jpg)
