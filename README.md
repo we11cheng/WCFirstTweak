@@ -1,8 +1,8 @@
 ## 记录下过程
 
-### thoes的安装 <https://github.com/theos/theos>
+### theos的安装 <https://github.com/theos/theos>
 - 设置xcode工具集路径 查看命令：```xcode-select --print-path```
-- 选择xcode命令 ``` sudo  xcode-select --switch /Applications/Xcode.app/Contents/Developer ````
+- 选择xcode命令 ``` sudo  xcode-select --switch /Applications/Xcode.app/Contents/Developer ```
 - ```sudo mkdir opt```
 - ```cd opt```
 - ```sudo git clone --recursive https://github.com/theos/theos.git```  
