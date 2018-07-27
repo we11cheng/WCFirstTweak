@@ -73,6 +73,22 @@ _THEOS_PLATFORM_DPKG_DEB_COMPRESSION ?= gzip
 ``` 
 添加设备THEOS_DEVICE_IP 到系统环境变量中即可。
 
+系统环境变量参考如下
+
+```
+export PATH=$HOME/bin/:$PATH
+export THEOS=/opt/theos
+export THEOS_DEVICE_IP=192.168.2.200
+export cycript_src=/opt/cycript_0.9.594/
+export PATH=$PATH:$cycript_src
+
+export MonkeyDevPath=/opt/MonkeyDev
+export MonkeyDevDeviceIP=
+export PATH=/opt/MonkeyDev/bin:$PATH
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
+```
+
 ### 效果图（有错误欢迎指出）
 ![](http://p2bzzkn05.bkt.clouddn.com/18-6-5/44117725.jpg)
 
